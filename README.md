@@ -1,7 +1,4 @@
 # CONNECT FOUR
-Sure, here's a comprehensive technical description of your virtual implementation of the Connect 4 game using Java, FXML, and JAR:
-
-Title: Virtual Connect 4 Game Implementation using Java, FXML, and JAR
 
 Introduction:
 The Virtual Connect 4 game is a modern adaptation of the classic Connect 4 game, implemented using Java programming language, JavaFX for graphical user interface (GUI) design, and FXML for UI layout. This implementation enhances the traditional game by incorporating object-oriented programming (OOP) principles, an intuitive menu system, and a visually appealing game board for two players.
